@@ -1,0 +1,103 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://images.pexels.com/photos/1304542/pexels-photo-1304542.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "nama": "Es Lemon",
+            "size": "100 Ml",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=es+lemon&tbm=shop"
+        },
+        {
+            "foto": "https://images.pexels.com/photos/5947035/pexels-photo-5947035.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "nama": "Es Buah Naga",
+            "size": "150 Ml",
+            "harga": "30.000",
+            "link": "https://www.google.com/search?q=es+buah+naga&tbm=shop"
+        },
+        {
+            "foto": "https://radarcirebon.id/wp-content/uploads/2023/07/70e421c966f8bab528f30bc592682053.jpg",
+            "nama": "Es kul kul",
+            "size": "50 Ml",
+            "harga": "10.000",
+            "link": ""
+        },
+        {
+            "foto": "https://doyanresep.com/wp-content/uploads/2018/01/resep-es-kiko-rumahan.jpg",
+            "nama": "KIKO ENAK TAU",
+            "size": "50 Ml",
+            "harga": "10.000",
+            "link": ""
+        }
+        
+    ],
+    "food": [
+        {
+            "foto": "https://kbu-cdn.com/dk/wp-content/uploads/spaghetti-poll-pedas.jpg",
+            "nama": "Spaghetti",
+            "size": "400 Kkal",
+            "harga": "30.000",
+            "link": "#"
+        },
+        {
+            "foto": "https://o-cdn-cas.sirclocdn.com/parenting/images/resep-kebab.width-800.format-webp.webp",
+            "nama": "Kebab",
+            "size": "350 Kkal",
+            "harga": "30.000",
+            "link": "#"
+        },
+        {
+            "foto": "https://www.masakapahariini.com/wp-content/uploads/2021/07/Nasi-Goreng-Spesial-Ayam-Kecombrang.jpg",
+            "nama": "Nasi Goreng",
+            "size": "500 Kkal",
+            "harga": "28.000",
+            "link": ""
+        },
+        {
+            "foto": "https://awsimages.detik.net.id/community/media/visual/2019/04/24/de2758a6-ea38-4ae9-8c4b-f2b395a81a22_43.png?w=650&q=80",
+            "nama": "Nasi Padang",
+            "size": "600 Kkal",
+            "harga": "35.000",
+            "link": ""
+        }
+        
+    ]
+}
